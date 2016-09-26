@@ -1,5 +1,5 @@
 FROM alpine:3.4
-MAINTAINER Wodby <admin@wodby.com>
+MAINTAINER phsab <info@vertizio.nl>
 
 # Create user www-data
 RUN addgroup -g 82 -S www-data && \
